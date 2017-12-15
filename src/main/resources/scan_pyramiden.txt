@@ -1,0 +1,21 @@
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                          Fit.nu 92:2a:a8:11:20:05 -47  11      Y  -- WPA2(PSK/AES/AES) 
+             LINK Mobility Guest 82:2a:a8:11:20:05 -50  11      Y  -- NONE
+                   LINK Mobility 80:2a:a8:11:20:05 -48  11      Y  -- WPA2(PSK/AES/AES) 
+             LINK Mobility Guest 82:2a:a8:11:1e:7a -59  6       Y  -- NONE
+                   LINK Mobility 80:2a:a8:11:1e:7a -58  6       Y  -- WPA2(PSK/AES/AES) 
+                          Fit.nu 92:2a:a8:11:1e:7a -58  6       Y  -- WPA2(PSK/AES/AES) 
+                          Fit.nu 92:2a:a8:11:1f:93 -49  1       Y  -- WPA2(PSK/AES/AES) 
+             LINK Mobility Guest 82:2a:a8:11:1f:93 -49  1       Y  -- NONE
+                          Fit.nu 92:2a:a8:11:21:a7 -64  1       Y  -- WPA2(PSK/AES/AES) 
+                   LINK Mobility 80:2a:a8:11:1f:93 -48  1       Y  -- WPA2(PSK/AES/AES) 
+                   LINK Mobility 80:2a:a8:11:21:a7 -65  1       Y  -- WPA2(PSK/AES/AES) 
+                          Fit.nu a2:2a:a8:12:21:a7 -76  44,+1   Y  -- WPA2(PSK/AES/AES) 
+                          Fit.nu a2:2a:a8:12:1f:93 -54  44,+1   Y  -- WPA2(PSK/AES/AES) 
+             LINK Mobility Guest 92:2a:a8:12:1f:93 -54  44,+1   Y  -- NONE
+             LINK Mobility Guest 92:2a:a8:12:21:a7 -75  44,+1   Y  -- NONE
+                   LINK Mobility 82:2a:a8:12:1f:93 -54  44,+1   Y  -- WPA2(PSK/AES/AES) 
+                   LINK Mobility 82:2a:a8:12:21:a7 -76  44,+1   Y  -- WPA2(PSK/AES/AES) 
+             LINK Mobility Guest 92:2a:a8:12:1e:7a -72  36,+1   Y  -- NONE
+                   LINK Mobility 82:2a:a8:12:1e:7a -72  36,+1   Y  -- WPA2(PSK/AES/AES) 
+                   LINK Mobility 82:2a:a8:12:20:05 -51  36,+1   Y  -- WPA2(PSK/AES/AES) 
