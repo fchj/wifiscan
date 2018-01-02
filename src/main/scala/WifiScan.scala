@@ -15,6 +15,7 @@ object WifiScan extends App {
   val scanResult = WifiScan.scanCmd.!!
   //println(scanResult)
   val lines = scanResult.split("\n")
+  println(lines.mkString("\n"))
   val someScan = lines(2).split(" +") //split multi whitespace
   println(someScan.mkString(" | "))
 

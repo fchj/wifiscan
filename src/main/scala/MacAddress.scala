@@ -19,9 +19,8 @@ object MacAddress {
       case 3 => "04%x".format(parts(0))+"04%x".format(parts(1))+"04%x".format(parts(2))
       case 4 => "03%x".format(parts(0))+"03%x".format(parts(1))+"03%x".format(parts(2))+"03%x".format(parts(3))
       case 6 => "02%x".format(parts(0))+"02%x".format(parts(1))+"02%x".format(parts(2))+"02%x".format(parts(3))+"02%x".format(parts(4))+"02%x".format(parts(5))
-      case _ => "ERROR LOLSgit commit -a"
+      case _ => "ERROR LOLS"
     }
     res
-
   }
 }
